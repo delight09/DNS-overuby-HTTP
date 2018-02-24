@@ -1,0 +1,9 @@
+#
+# external_hosts.txt: overwrite response with static lookup table
+#
+
+#<ip-address>	<hostname.domain.org>	<hostname>
+243.185.187.39 testing.tld testing
+127.0.0.1 hm.baidu.com
+
+# End of file

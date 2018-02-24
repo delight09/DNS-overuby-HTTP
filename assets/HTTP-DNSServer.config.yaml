@@ -1,0 +1,4 @@
+api: google-public-dns
+listen_port: 5353
+listen_address: 127.0.0.1
+http_proxy: http://127.0.0.1:8118

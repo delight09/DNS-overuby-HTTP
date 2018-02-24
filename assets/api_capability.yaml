@@ -1,0 +1,9 @@
+google-public-dns:
+  - A
+  - MX
+  - TXT
+  - AAAA
+  - ANY
+  - CNAME
+tencent-119-29-29-29:
+  - A
